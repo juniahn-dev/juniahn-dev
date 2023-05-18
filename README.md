@@ -3,6 +3,11 @@
 
 <br />
 
+![Juniahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniahn-dev&show_icons=true&theme=material-palenight)
+
+<br />
+
+### Skills
 <div align="center">
   <div align="left">
     <img src="https://img.shields.io/badge/HTML-d00000?style=flat-square&logo=HTML5&logoColor=white" />
@@ -22,4 +27,6 @@
 
 <br />
 
-![Juniahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniahn-dev&show_icons=true&theme=material-palenight)
+### Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gud0415@gmail.com)](mailto:gud0415@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/jun-hyoung-lee-66759621a/)
