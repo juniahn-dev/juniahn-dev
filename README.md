@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dcd0fe&height=150&section=header&text=Philippians%204:13&fontSize=50&animation=fadeIn&fontColor=d29399)
 ### Hello 👋
 
-<br>
+<br />
+
 <div align="center">
   <div align="left">
     <img src="https://img.shields.io/badge/HTML-d00000?style=flat-square&logo=HTML5&logoColor=white" />
@@ -17,4 +18,10 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Recoil-ffaf24?style=flat-square&logoColor=white" />
   </div>
+</div>
+
+<br />
+
+<div>
+  ![Juniahn's GitHub stats]([https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=juniahn-dev&show_icons=true&theme=material-palenight))
 </div>
