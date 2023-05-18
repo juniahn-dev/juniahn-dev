@@ -23,5 +23,5 @@
 <br />
 
 <div>
-  ![Juniahn's GitHub stats]([https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=juniahn-dev&show_icons=true&theme=material-palenight))
+  ![Juniahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniahn-dev&show_icons=true&theme=material-palenight)
 </div>
