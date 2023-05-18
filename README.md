@@ -3,17 +3,14 @@
 
 <br>
 <div align="center">
-  
-  ---
-  <br>
   <div align="left">
     <img src="https://img.shields.io/badge/HTML-d00000?style=flat-square&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1a759f?style=flat-square&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
-    
-    <br>
-    
+  </div>
+  <br>
+  <div align="left">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white "/>
