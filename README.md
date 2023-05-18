@@ -22,6 +22,4 @@
 
 <br />
 
-<div>
-  ![Juniahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniahn-dev&show_icons=true&theme=material-palenight)
-</div>
+![Juniahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniahn-dev&show_icons=true&theme=material-palenight)
