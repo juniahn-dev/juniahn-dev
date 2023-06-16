@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dcd0fe&height=150&section=header&text=Philippians%204:13&fontSize=50&animation=fadeIn&fontColor=d29399)
 ### Hello 👋
-
 <br />
 
 ![Juniahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniahn-dev&show_icons=true&theme=material-palenight)
-
 <br />
 
 ### Skills
+![Juniahn's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniahn-dev&layout=compact&theme=tokyonight)
+
 <div align="center">
   <div align="left">
     <img src="https://img.shields.io/badge/HTML-d00000?style=flat-square&logo=HTML5&logoColor=white" />
