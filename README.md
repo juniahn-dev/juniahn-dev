@@ -2,9 +2,6 @@
 ### Hello 👋
 <br />
 
-![Juniahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniahn-dev&show_icons=true&theme=material-palenight)
-<br />
-
 ### Skills
 ![Juniahn's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniahn-dev&layout=compact&theme=tokyonight)
 
