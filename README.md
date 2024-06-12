@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dcd0fe&height=150&section=header&text=Philippians%204:13&fontSize=50&animation=fadeIn&fontColor=d29399)
-### Hello👋 I'm Juniahn Nice to meet you
+### Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Juniahn Nice to meet you
 <br />
 
 ### Skills
