@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/styled components-db7093?style=plastic&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux-764abc?style=plastic&logo=Redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Recoil-ffaf24?style=plastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Recoil-ffaf24?style=plastic&logo=recoil&logoColor=white" />
   </div>
 </div>
 
@@ -45,6 +45,7 @@
     <img src="https://img.shields.io/badge/COSMOS-9c6cff?style=plastic" />
     <img src="https://img.shields.io/badge/APTOS-333333?style=plastic" />
     <img src="https://img.shields.io/badge/SUI-037eed?style=plastic" />
+    <img src="https://img.shields.io/badge/BASE-1452f0?style=plastic" />
   </div>
 </div>
 
@@ -53,3 +54,5 @@
 ### Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:gud0415@gmail.com)](mailto:gud0415@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/jun-hyoung-lee-66759621a/)
+[![Twitter Badge](https://img.shields.io/badge/X-000?style=plastic&logo=x)](https://www.twitter.com/junhyoung21)
+
