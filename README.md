@@ -29,6 +29,7 @@
 #### Back-End
 <div align="center">
   <div align="left">
+    <img src="https://img.shields.io/badge/Node.js-417f38?style=plastic&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/NestJS-e92744?style=plastic&logo=nestjs&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-3e6d93?style=plastic&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-1d63ec?style=plastic&logo=Docker&logoColor=white" />
@@ -47,6 +48,7 @@
     <img src="https://img.shields.io/badge/APTOS-333333?style=plastic" />
     <img src="https://img.shields.io/badge/SUI-037eed?style=plastic" />
     <img src="https://img.shields.io/badge/BASE-1452f0?style=plastic" />
+    <img src="https://img.shields.io/badge/SOLANA-9945FF?style=plastic" />
   </div>
 </div>
 
