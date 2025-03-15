@@ -54,8 +54,8 @@
 
 <br />
 
-### Contact
+#### Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:gud0415@gmail.com)](mailto:gud0415@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/jun-hyoung)
-[![Twitter Badge](https://img.shields.io/badge/X-000?style=plastic&logo=x)](https://www.twitter.com/junhyoung21)
+[![X Badge](https://img.shields.io/badge/X-000?style=plastic&logo=x)](https://www.x.com/junhyoung21)
 
